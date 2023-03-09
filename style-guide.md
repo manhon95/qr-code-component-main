@@ -6,6 +6,8 @@ The designs were created to the following widths:
 
 - Mobile: 375px
 - Desktop: 1440px
+- Container: 320px \* 500px radius: 20px
+- image: 288px \* 288px radius: 10px margin: 8px
 
 ## Colors
 
